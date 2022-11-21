@@ -1,0 +1,3 @@
+[submodule "src/md5"]
+	path = src/md5
+	url = https://github.com/morajlab/md5-c.git
